@@ -1,7 +1,6 @@
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
-Ho cambiato il text edit
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
@@ -12,7 +11,7 @@ JAR files manifest file (MANIFEST.MF).
 To run the project from the command line, go to the dist folder and
 type the following:
 
-java -jar "IncAppRetailer.jar" 
+java -jar "IncAppDocumentary.jar" 
 
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
